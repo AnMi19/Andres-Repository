@@ -1,4 +1,8 @@
-body {
+div {
   background: yellow;
-  color: black;
+}
+
+.error {
+  background: pink;
+  color: red;
 }
